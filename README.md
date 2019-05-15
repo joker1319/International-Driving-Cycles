@@ -4,15 +4,15 @@ International Driving Cycles (FTP-72, FTP-75, 10-15 mode, JC08, EUDC, ECE15, NED
 
 # America:
 <br>
-All cycles can be fount here: [www.epa.gov](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
+All cycles can be fount here: [epa.gov](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
 <br>
 <br>
 
 # Japan:
 <br>
-**JC08  =>**  TRIAS 99-006-01 [www.naltec.go.jp](http://www.naltec.go.jp/images/info/pdf/jimukitei/50_TRIAS_99-006-01.pdf)
+**JC08  =>**  TRIAS 99-006-01 [naltec.go.jp](http://www.naltec.go.jp/images/info/pdf/jimukitei/50_TRIAS_99-006-01.pdf)
 <br>
-**10-15 mode  =>**  [www.epa.gov](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
+**10-15 mode  =>**  [epa.gov](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
 <br>
 <br>
 
