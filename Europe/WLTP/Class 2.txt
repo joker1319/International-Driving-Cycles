@@ -1,0 +1,1802 @@
+Phase	Time [s]	Speed [km/h]
+Low	0	0
+Low	1	0
+Low	2	0
+Low	3	0
+Low	4	0
+Low	5	0
+Low	6	0
+Low	7	0
+Low	8	0
+Low	9	0
+Low	10	0
+Low	11	0
+Low	12	0
+Low	13	1,2
+Low	14	2,6
+Low	15	4,9
+Low	16	7,3
+Low	17	9,4
+Low	18	11,4
+Low	19	12,7
+Low	20	13,3
+Low	21	13,4
+Low	22	13,3
+Low	23	13,1
+Low	24	12,5
+Low	25	11,1
+Low	26	8,9
+Low	27	6,2
+Low	28	3,8
+Low	29	1,8
+Low	30	0
+Low	31	0
+Low	32	0
+Low	33	0
+Low	34	1,5
+Low	35	2,8
+Low	36	3,6
+Low	37	4,5
+Low	38	5,3
+Low	39	6
+Low	40	6,6
+Low	41	7,3
+Low	42	7,9
+Low	43	8,6
+Low	44	9,3
+Low	45	10
+Low	46	10,8
+Low	47	11,6
+Low	48	12,4
+Low	49	13,2
+Low	50	14,2
+Low	51	14,8
+Low	52	14,7
+Low	53	14,4
+Low	54	14,1
+Low	55	13,6
+Low	56	13
+Low	57	12,4
+Low	58	11,8
+Low	59	11,2
+Low	60	10,6
+Low	61	9,9
+Low	62	9
+Low	63	8,2
+Low	64	7
+Low	65	4,8
+Low	66	2,3
+Low	67	0
+Low	68	0
+Low	69	0
+Low	70	0
+Low	71	0
+Low	72	0
+Low	73	0
+Low	74	0
+Low	75	0
+Low	76	0
+Low	77	0
+Low	78	0
+Low	79	0
+Low	80	0
+Low	81	0
+Low	82	0
+Low	83	0
+Low	84	0
+Low	85	0
+Low	86	0
+Low	87	0
+Low	88	0
+Low	89	0
+Low	90	0
+Low	91	0
+Low	92	0
+Low	93	0
+Low	94	0
+Low	95	0
+Low	96	0
+Low	97	0
+Low	98	0
+Low	99	0
+Low	100	0
+Low	101	0
+Low	102	0
+Low	103	0
+Low	104	0
+Low	105	0
+Low	106	0
+Low	107	0,8
+Low	108	1,4
+Low	109	2,3
+Low	110	3,5
+Low	111	4,7
+Low	112	5,9
+Low	113	7,4
+Low	114	9,2
+Low	115	11,7
+Low	116	13,5
+Low	117	15
+Low	118	16,2
+Low	119	16,8
+Low	120	17,5
+Low	121	18,8
+Low	122	20,3
+Low	123	22
+Low	124	23,6
+Low	125	24,8
+Low	126	25,6
+Low	127	26,3
+Low	128	27,2
+Low	129	28,3
+Low	130	29,6
+Low	131	30,9
+Low	132	32,2
+Low	133	33,4
+Low	134	35,1
+Low	135	37,2
+Low	136	38,7
+Low	137	39
+Low	138	40,1
+Low	139	40,4
+Low	140	39,7
+Low	141	36,8
+Low	142	35,1
+Low	143	32,2
+Low	144	31,1
+Low	145	30,8
+Low	146	29,7
+Low	147	29,4
+Low	148	29
+Low	149	28,5
+Low	150	26
+Low	151	23,4
+Low	152	20,7
+Low	153	17,4
+Low	154	15,2
+Low	155	13,5
+Low	156	13
+Low	157	12,4
+Low	158	12,3
+Low	159	12,2
+Low	160	12,3
+Low	161	12,4
+Low	162	12,5
+Low	163	12,7
+Low	164	12,8
+Low	165	13,2
+Low	166	14,3
+Low	167	16,5
+Low	168	19,4
+Low	169	21,7
+Low	170	23,1
+Low	171	23,5
+Low	172	24,2
+Low	173	24,8
+Low	174	25,4
+Low	175	25,8
+Low	176	26,5
+Low	177	27,2
+Low	178	28,3
+Low	179	29,9
+Low	180	32,4
+Low	181	35,1
+Low	182	37,5
+Low	183	39,2
+Low	184	40,5
+Low	185	41,4
+Low	186	42
+Low	187	42,5
+Low	188	43,2
+Low	189	44,4
+Low	190	45,9
+Low	191	47,6
+Low	192	49
+Low	193	50
+Low	194	50,2
+Low	195	50,1
+Low	196	49,8
+Low	197	49,4
+Low	198	48,9
+Low	199	48,5
+Low	200	48,3
+Low	201	48,2
+Low	202	47,9
+Low	203	47,1
+Low	204	45,5
+Low	205	43,2
+Low	206	40,6
+Low	207	38,5
+Low	208	36,9
+Low	209	35,9
+Low	210	35,3
+Low	211	34,8
+Low	212	34,5
+Low	213	34,2
+Low	214	34
+Low	215	33,8
+Low	216	33,6
+Low	217	33,5
+Low	218	33,5
+Low	219	33,4
+Low	220	33,3
+Low	221	33,3
+Low	222	33,2
+Low	223	33,1
+Low	224	33
+Low	225	32,9
+Low	226	32,8
+Low	227	32,7
+Low	228	32,5
+Low	229	32,3
+Low	230	31,8
+Low	231	31,4
+Low	232	30,9
+Low	233	30,6
+Low	234	30,6
+Low	235	30,7
+Low	236	32
+Low	237	33,5
+Low	238	35,8
+Low	239	37,6
+Low	240	38,8
+Low	241	39,6
+Low	242	40,1
+Low	243	40,9
+Low	244	41,8
+Low	245	43,3
+Low	246	44,7
+Low	247	46,4
+Low	248	47,9
+Low	249	49,6
+Low	250	49,6
+Low	251	48,8
+Low	252	48
+Low	253	47,5
+Low	254	47,1
+Low	255	46,9
+Low	256	45,8
+Low	257	45,8
+Low	258	45,8
+Low	259	45,9
+Low	260	46,2
+Low	261	46,4
+Low	262	46,6
+Low	263	46,8
+Low	264	47
+Low	265	47,3
+Low	266	47,5
+Low	267	47,9
+Low	268	48,3
+Low	269	48,3
+Low	270	48,2
+Low	271	48
+Low	272	47,7
+Low	273	47,2
+Low	274	46,5
+Low	275	45,2
+Low	276	43,7
+Low	277	42
+Low	278	40,4
+Low	279	39
+Low	280	37,7
+Low	281	36,4
+Low	282	35,2
+Low	283	34,3
+Low	284	33,8
+Low	285	33,3
+Low	286	32,5
+Low	287	30,9
+Low	288	28,6
+Low	289	25,9
+Low	290	23,1
+Low	291	20,1
+Low	292	17,3
+Low	293	15,1
+Low	294	13,7
+Low	295	13,4
+Low	296	13,9
+Low	297	15
+Low	298	16,3
+Low	299	17,4
+Low	300	18,2
+Low	301	18,6
+Low	302	19
+Low	303	19,4
+Low	304	19,8
+Low	305	20,1
+Low	306	20,5
+Low	307	20,2
+Low	308	18,6
+Low	309	16,5
+Low	310	14,4
+Low	311	13,4
+Low	312	12,9
+Low	313	12,7
+Low	314	12,4
+Low	315	12,4
+Low	316	12,8
+Low	317	14,1
+Low	318	16,2
+Low	319	18,8
+Low	320	21,9
+Low	321	25
+Low	322	28,4
+Low	323	31,3
+Low	324	34
+Low	325	34,6
+Low	326	33,9
+Low	327	31,9
+Low	328	30
+Low	329	29
+Low	330	27,9
+Low	331	27,1
+Low	332	26,4
+Low	333	25,9
+Low	334	25,5
+Low	335	25
+Low	336	24,6
+Low	337	23,9
+Low	338	23
+Low	339	21,8
+Low	340	20,7
+Low	341	19,6
+Low	342	18,7
+Low	343	18,1
+Low	344	17,5
+Low	345	16,7
+Low	346	15,4
+Low	347	13,6
+Low	348	11,2
+Low	349	8,6
+Low	350	6
+Low	351	3,1
+Low	352	1,2
+Low	353	0
+Low	354	0
+Low	355	0
+Low	356	0
+Low	357	0
+Low	358	0
+Low	359	0
+Low	360	1,4
+Low	361	3,2
+Low	362	5,6
+Low	363	8,1
+Low	364	10,3
+Low	365	12,1
+Low	366	12,6
+Low	367	13,6
+Low	368	14,5
+Low	369	15,6
+Low	370	16,8
+Low	371	18,2
+Low	372	19,6
+Low	373	20,9
+Low	374	22,3
+Low	375	23,8
+Low	376	25,4
+Low	377	27
+Low	378	28,6
+Low	379	30,2
+Low	380	31,2
+Low	381	31,2
+Low	382	30,7
+Low	383	29,5
+Low	384	28,6
+Low	385	27,7
+Low	386	26,9
+Low	387	26,1
+Low	388	25,4
+Low	389	24,6
+Low	390	23,6
+Low	391	22,6
+Low	392	21,7
+Low	393	20,7
+Low	394	19,8
+Low	395	18,8
+Low	396	17,7
+Low	397	16,6
+Low	398	15,6
+Low	399	14,8
+Low	400	14,3
+Low	401	13,8
+Low	402	13,4
+Low	403	13,1
+Low	404	12,8
+Low	405	12,3
+Low	406	11,6
+Low	407	10,5
+Low	408	9
+Low	409	7,2
+Low	410	5,2
+Low	411	2,9
+Low	412	1,2
+Low	413	0
+Low	414	0
+Low	415	0
+Low	416	0
+Low	417	0
+Low	418	0
+Low	419	0
+Low	420	0
+Low	421	0
+Low	422	0
+Low	423	0
+Low	424	0
+Low	425	0
+Low	426	0
+Low	427	0
+Low	428	0
+Low	429	0
+Low	430	0
+Low	431	0
+Low	432	0
+Low	433	0
+Low	434	0
+Low	435	0
+Low	436	0
+Low	437	0
+Low	438	0
+Low	439	0
+Low	440	0
+Low	441	0
+Low	442	0
+Low	443	0
+Low	444	0
+Low	445	0
+Low	446	0
+Low	447	0
+Low	448	0
+Low	449	0
+Low	450	0
+Low	451	0
+Low	452	0
+Low	453	0
+Low	454	0
+Low	455	0
+Low	456	0
+Low	457	0
+Low	458	0
+Low	459	0
+Low	460	0
+Low	461	0
+Low	462	0
+Low	463	0
+Low	464	0
+Low	465	0
+Low	466	0
+Low	467	0
+Low	468	0
+Low	469	0
+Low	470	0
+Low	471	0
+Low	472	0
+Low	473	0
+Low	474	0
+Low	475	0
+Low	476	0
+Low	477	0
+Low	478	0
+Low	479	0
+Low	480	0
+Low	481	1,4
+Low	482	2,5
+Low	483	5,2
+Low	484	7,9
+Low	485	10,3
+Low	486	12,7
+Low	487	15
+Low	488	17,4
+Low	489	19,7
+Low	490	21,9
+Low	491	24,1
+Low	492	26,2
+Low	493	28,1
+Low	494	29,7
+Low	495	31,3
+Low	496	33
+Low	497	34,7
+Low	498	36,3
+Low	499	38,1
+Low	500	39,4
+Low	501	40,4
+Low	502	41,2
+Low	503	42,1
+Low	504	43,2
+Low	505	44,3
+Low	506	45,7
+Low	507	45,4
+Low	508	44,5
+Low	509	42,5
+Low	510	39,5
+Low	511	36,5
+Low	512	33,5
+Low	513	30,4
+Low	514	27
+Low	515	23,6
+Low	516	21
+Low	517	19,5
+Low	518	17,6
+Low	519	16,1
+Low	520	14,5
+Low	521	13,5
+Low	522	13,7
+Low	523	16
+Low	524	18,1
+Low	525	20,8
+Low	526	21,5
+Low	527	22,5
+Low	528	23,4
+Low	529	24,5
+Low	530	25,6
+Low	531	26
+Low	532	26,5
+Low	533	26,9
+Low	534	27,3
+Low	535	27,9
+Low	536	30,3
+Low	537	33,2
+Low	538	35,4
+Low	539	38
+Low	540	40,1
+Low	541	42,7
+Low	542	44,5
+Low	543	46,3
+Low	544	47,6
+Low	545	48,8
+Low	546	49,7
+Low	547	50,6
+Low	548	51,4
+Low	549	51,4
+Low	550	50,2
+Low	551	47,1
+Low	552	44,5
+Low	553	41,5
+Low	554	38,5
+Low	555	35,5
+Low	556	32,5
+Low	557	29,5
+Low	558	26,5
+Low	559	23,5
+Low	560	20,4
+Low	561	17,5
+Low	562	14,5
+Low	563	11,5
+Low	564	8,5
+Low	565	5,6
+Low	566	2,6
+Low	567	0
+Low	568	0
+Low	569	0
+Low	570	0
+Low	571	0
+Low	572	0
+Low	573	0
+Low	574	0
+Low	575	0
+Low	576	0
+Low	577	0
+Low	578	0
+Low	579	0
+Low	580	0
+Low	581	0
+Low	582	0
+Low	583	0
+Low	584	0
+Low	585	0
+Low	586	0
+Low	587	0
+Low	588	0
+Low	589	0
+Medium	590	0
+Medium	591	0
+Medium	592	0
+Medium	593	0
+Medium	594	0
+Medium	595	0
+Medium	596	0
+Medium	597	0
+Medium	598	0
+Medium	599	0
+Medium	600	0
+Medium	601	1,6
+Medium	602	3,6
+Medium	603	6,3
+Medium	604	9
+Medium	605	11,8
+Medium	606	14,2
+Medium	607	16,6
+Medium	608	18,5
+Medium	609	20,8
+Medium	610	23,4
+Medium	611	26,9
+Medium	612	30,3
+Medium	613	32,8
+Medium	614	34,1
+Medium	615	34,2
+Medium	616	33,6
+Medium	617	32,1
+Medium	618	30
+Medium	619	27,5
+Medium	620	25,1
+Medium	621	22,8
+Medium	622	20,5
+Medium	623	17,9
+Medium	624	15,1
+Medium	625	13,4
+Medium	626	12,8
+Medium	627	13,7
+Medium	628	16
+Medium	629	18,1
+Medium	630	20,8
+Medium	631	23,7
+Medium	632	26,5
+Medium	633	29,3
+Medium	634	32
+Medium	635	34,5
+Medium	636	36,8
+Medium	637	38,6
+Medium	638	39,8
+Medium	639	40,6
+Medium	640	41,1
+Medium	641	41,9
+Medium	642	42,8
+Medium	643	44,3
+Medium	644	45,7
+Medium	645	47,4
+Medium	646	48,9
+Medium	647	50,6
+Medium	648	52
+Medium	649	53,7
+Medium	650	55
+Medium	651	56,8
+Medium	652	58
+Medium	653	59,8
+Medium	654	61,1
+Medium	655	62,4
+Medium	656	63
+Medium	657	63,5
+Medium	658	63
+Medium	659	62
+Medium	660	60,4
+Medium	661	58,6
+Medium	662	56,7
+Medium	663	55
+Medium	664	53,7
+Medium	665	52,7
+Medium	666	51,9
+Medium	667	51,4
+Medium	668	51
+Medium	669	50,7
+Medium	670	50,6
+Medium	671	50,8
+Medium	672	51,2
+Medium	673	51,7
+Medium	674	52,3
+Medium	675	53,1
+Medium	676	53,8
+Medium	677	54,5
+Medium	678	55,1
+Medium	679	55,9
+Medium	680	56,5
+Medium	681	57,1
+Medium	682	57,8
+Medium	683	58,5
+Medium	684	59,3
+Medium	685	60,2
+Medium	686	61,3
+Medium	687	62,4
+Medium	688	63,4
+Medium	689	64,4
+Medium	690	65,4
+Medium	691	66,3
+Medium	692	67,2
+Medium	693	68
+Medium	694	68,8
+Medium	695	69,5
+Medium	696	70,1
+Medium	697	70,6
+Medium	698	71
+Medium	699	71,6
+Medium	700	72,2
+Medium	701	72,8
+Medium	702	73,5
+Medium	703	74,1
+Medium	704	74,3
+Medium	705	74,3
+Medium	706	73,7
+Medium	707	71,9
+Medium	708	70,5
+Medium	709	68,9
+Medium	710	67,4
+Medium	711	66
+Medium	712	64,7
+Medium	713	63,7
+Medium	714	62,9
+Medium	715	62,2
+Medium	716	61,7
+Medium	717	61,2
+Medium	718	60,7
+Medium	719	60,3
+Medium	720	59,9
+Medium	721	59,6
+Medium	722	59,3
+Medium	723	59
+Medium	724	58,6
+Medium	725	58
+Medium	726	57,5
+Medium	727	56,9
+Medium	728	56,3
+Medium	729	55,9
+Medium	730	55,6
+Medium	731	55,3
+Medium	732	55,1
+Medium	733	54,8
+Medium	734	54,6
+Medium	735	54,5
+Medium	736	54,3
+Medium	737	53,9
+Medium	738	53,4
+Medium	739	52,6
+Medium	740	51,5
+Medium	741	50,2
+Medium	742	48,7
+Medium	743	47
+Medium	744	45,1
+Medium	745	43
+Medium	746	40,6
+Medium	747	38,1
+Medium	748	35,4
+Medium	749	32,7
+Medium	750	30
+Medium	751	27,5
+Medium	752	25,3
+Medium	753	23,4
+Medium	754	22
+Medium	755	20,8
+Medium	756	19,8
+Medium	757	18,9
+Medium	758	18
+Medium	759	17
+Medium	760	16,1
+Medium	761	15,5
+Medium	762	14,4
+Medium	763	14,9
+Medium	764	15,9
+Medium	765	17,1
+Medium	766	18,3
+Medium	767	19,4
+Medium	768	20,4
+Medium	769	21,2
+Medium	770	21,9
+Medium	771	22,7
+Medium	772	23,4
+Medium	773	24,2
+Medium	774	24,3
+Medium	775	24,2
+Medium	776	24,1
+Medium	777	23,8
+Medium	778	23
+Medium	779	22,6
+Medium	780	21,7
+Medium	781	21,3
+Medium	782	20,3
+Medium	783	19,1
+Medium	784	18,1
+Medium	785	16,9
+Medium	786	16
+Medium	787	14,8
+Medium	788	14,5
+Medium	789	13,7
+Medium	790	13,5
+Medium	791	12,9
+Medium	792	12,7
+Medium	793	12,5
+Medium	794	12,5
+Medium	795	12,6
+Medium	796	13
+Medium	797	13,6
+Medium	798	14,6
+Medium	799	15,7
+Medium	800	17,1
+Medium	801	18,7
+Medium	802	20,2
+Medium	803	21,9
+Medium	804	23,6
+Medium	805	25,4
+Medium	806	27,1
+Medium	807	28,9
+Medium	808	30,4
+Medium	809	32
+Medium	810	33,4
+Medium	811	35
+Medium	812	36,4
+Medium	813	38,1
+Medium	814	39,7
+Medium	815	41,6
+Medium	816	43,3
+Medium	817	45,1
+Medium	818	46,9
+Medium	819	48,7
+Medium	820	50,5
+Medium	821	52,4
+Medium	822	54,1
+Medium	823	55,7
+Medium	824	56,8
+Medium	825	57,9
+Medium	826	59
+Medium	827	59,9
+Medium	828	60,7
+Medium	829	61,4
+Medium	830	62
+Medium	831	62,5
+Medium	832	62,9
+Medium	833	63,2
+Medium	834	63,4
+Medium	835	63,7
+Medium	836	64
+Medium	837	64,4
+Medium	838	64,9
+Medium	839	65,5
+Medium	840	66,2
+Medium	841	67
+Medium	842	67,8
+Medium	843	68,6
+Medium	844	69,4
+Medium	845	70,1
+Medium	846	70,9
+Medium	847	71,7
+Medium	848	72,5
+Medium	849	73,2
+Medium	850	73,8
+Medium	851	74,4
+Medium	852	74,7
+Medium	853	74,7
+Medium	854	74,6
+Medium	855	74,2
+Medium	856	73,5
+Medium	857	72,6
+Medium	858	71,8
+Medium	859	71
+Medium	860	70,1
+Medium	861	69,4
+Medium	862	68,9
+Medium	863	68,4
+Medium	864	67,9
+Medium	865	67,1
+Medium	866	65,8
+Medium	867	63,9
+Medium	868	61,4
+Medium	869	58,4
+Medium	870	55,4
+Medium	871	52,4
+Medium	872	50
+Medium	873	48,3
+Medium	874	47,3
+Medium	875	46,8
+Medium	876	46,9
+Medium	877	47,1
+Medium	878	47,5
+Medium	879	47,8
+Medium	880	48,3
+Medium	881	48,8
+Medium	882	49,5
+Medium	883	50,2
+Medium	884	50,8
+Medium	885	51,4
+Medium	886	51,8
+Medium	887	51,9
+Medium	888	51,7
+Medium	889	51,2
+Medium	890	50,4
+Medium	891	49,2
+Medium	892	47,7
+Medium	893	46,3
+Medium	894	45,1
+Medium	895	44,2
+Medium	896	43,7
+Medium	897	43,4
+Medium	898	43,1
+Medium	899	42,5
+Medium	900	41,8
+Medium	901	41,1
+Medium	902	40,3
+Medium	903	39,7
+Medium	904	39,3
+Medium	905	39,2
+Medium	906	39,3
+Medium	907	39,6
+Medium	908	40
+Medium	909	40,7
+Medium	910	41,4
+Medium	911	42,2
+Medium	912	43,1
+Medium	913	44,1
+Medium	914	44,9
+Medium	915	45,6
+Medium	916	46,4
+Medium	917	47
+Medium	918	47,8
+Medium	919	48,3
+Medium	920	48,9
+Medium	921	49,4
+Medium	922	49,8
+Medium	923	49,6
+Medium	924	49,3
+Medium	925	49
+Medium	926	48,5
+Medium	927	48
+Medium	928	47,5
+Medium	929	47
+Medium	930	46,9
+Medium	931	46,8
+Medium	932	46,8
+Medium	933	46,8
+Medium	934	46,9
+Medium	935	46,9
+Medium	936	46,9
+Medium	937	46,9
+Medium	938	46,9
+Medium	939	46,8
+Medium	940	46,6
+Medium	941	46,4
+Medium	942	46
+Medium	943	45,5
+Medium	944	45
+Medium	945	44,5
+Medium	946	44,2
+Medium	947	43,9
+Medium	948	43,7
+Medium	949	43,6
+Medium	950	43,6
+Medium	951	43,5
+Medium	952	43,5
+Medium	953	43,4
+Medium	954	43,3
+Medium	955	43,1
+Medium	956	42,9
+Medium	957	42,7
+Medium	958	42,5
+Medium	959	42,4
+Medium	960	42,2
+Medium	961	42,1
+Medium	962	42
+Medium	963	41,8
+Medium	964	41,7
+Medium	965	41,5
+Medium	966	41,3
+Medium	967	41,1
+Medium	968	40,8
+Medium	969	40,3
+Medium	970	39,6
+Medium	971	38,5
+Medium	972	37
+Medium	973	35,1
+Medium	974	33
+Medium	975	30,6
+Medium	976	27,9
+Medium	977	25,1
+Medium	978	22
+Medium	979	18,8
+Medium	980	15,5
+Medium	981	12,3
+Medium	982	8,8
+Medium	983	6
+Medium	984	3,6
+Medium	985	1,6
+Medium	986	0
+Medium	987	0
+Medium	988	0
+Medium	989	0
+Medium	990	0
+Medium	991	0
+Medium	992	0
+Medium	993	0
+Medium	994	0
+Medium	995	0
+Medium	996	0
+Medium	997	0
+Medium	998	0
+Medium	999	0
+Medium	1000	0
+Medium	1001	0
+Medium	1002	0
+Medium	1003	0
+Medium	1004	0
+Medium	1005	0
+Medium	1006	0
+Medium	1007	0
+Medium	1008	0
+Medium	1009	0
+Medium	1010	0
+Medium	1011	0
+Medium	1012	0
+Medium	1013	0
+Medium	1014	0
+Medium	1015	0
+Medium	1016	0
+Medium	1017	0
+Medium	1018	0
+Medium	1019	0
+Medium	1020	0
+Medium	1021	0
+Medium	1022	0
+High	1023	0
+High	1024	0
+High	1025	0
+High	1026	0
+High	1027	1,1
+High	1028	3
+High	1029	5,7
+High	1030	8,4
+High	1031	11,1
+High	1032	14
+High	1033	17
+High	1034	20,1
+High	1035	22,7
+High	1036	23,6
+High	1037	24,5
+High	1038	24,8
+High	1039	25,1
+High	1040	25,3
+High	1041	25,5
+High	1042	25,7
+High	1043	25,8
+High	1044	25,9
+High	1045	26
+High	1046	26,1
+High	1047	26,3
+High	1048	26,5
+High	1049	26,8
+High	1050	27,1
+High	1051	27,5
+High	1052	28
+High	1053	28,6
+High	1054	29,3
+High	1055	30,4
+High	1056	31,8
+High	1057	33,7
+High	1058	35,8
+High	1059	37,8
+High	1060	39,5
+High	1061	40,8
+High	1062	41,8
+High	1063	42,4
+High	1064	43
+High	1065	43,4
+High	1066	44
+High	1067	44,4
+High	1068	45
+High	1069	45,4
+High	1070	46
+High	1071	46,4
+High	1072	47
+High	1073	47,4
+High	1074	48
+High	1075	48,4
+High	1076	49
+High	1077	49,4
+High	1078	50
+High	1079	50,4
+High	1080	50,8
+High	1081	51,1
+High	1082	51,3
+High	1083	51,3
+High	1084	51,3
+High	1085	51,3
+High	1086	51,3
+High	1087	51,3
+High	1088	51,3
+High	1089	51,4
+High	1090	51,6
+High	1091	51,8
+High	1092	52,1
+High	1093	52,3
+High	1094	52,6
+High	1095	52,8
+High	1096	52,9
+High	1097	53
+High	1098	53
+High	1099	53
+High	1100	53,1
+High	1101	53,2
+High	1102	53,3
+High	1103	53,4
+High	1104	53,5
+High	1105	53,7
+High	1106	55
+High	1107	56,8
+High	1108	58,8
+High	1109	60,9
+High	1110	63
+High	1111	65
+High	1112	66,9
+High	1113	68,6
+High	1114	70,1
+High	1115	71,5
+High	1116	72,8
+High	1117	73,9
+High	1118	74,9
+High	1119	75,7
+High	1120	76,4
+High	1121	77,1
+High	1122	77,6
+High	1123	78
+High	1124	78,2
+High	1125	78,4
+High	1126	78,5
+High	1127	78,5
+High	1128	78,6
+High	1129	78,7
+High	1130	78,9
+High	1131	79,1
+High	1132	79,4
+High	1133	79,8
+High	1134	80,1
+High	1135	80,5
+High	1136	80,8
+High	1137	81
+High	1138	81,2
+High	1139	81,3
+High	1140	81,2
+High	1141	81
+High	1142	80,6
+High	1143	80
+High	1144	79,1
+High	1145	78
+High	1146	76,8
+High	1147	75,5
+High	1148	74,1
+High	1149	72,9
+High	1150	71,9
+High	1151	71,2
+High	1152	70,9
+High	1153	71
+High	1154	71,5
+High	1155	72,3
+High	1156	73,2
+High	1157	74,1
+High	1158	74,9
+High	1159	75,4
+High	1160	75,5
+High	1161	75,2
+High	1162	74,5
+High	1163	73,3
+High	1164	71,7
+High	1165	69,9
+High	1166	67,9
+High	1167	65,7
+High	1168	63,5
+High	1169	61,2
+High	1170	59
+High	1171	56,8
+High	1172	54,7
+High	1173	52,7
+High	1174	50,9
+High	1175	49,4
+High	1176	48,1
+High	1177	47,1
+High	1178	46,5
+High	1179	46,3
+High	1180	46,5
+High	1181	47,2
+High	1182	48,3
+High	1183	49,7
+High	1184	51,3
+High	1185	53
+High	1186	54,9
+High	1187	56,7
+High	1188	58,6
+High	1189	60,2
+High	1190	61,6
+High	1191	62,2
+High	1192	62,5
+High	1193	62,8
+High	1194	62,9
+High	1195	63
+High	1196	63
+High	1197	63,1
+High	1198	63,2
+High	1199	63,3
+High	1200	63,5
+High	1201	63,7
+High	1202	63,9
+High	1203	64,1
+High	1204	64,3
+High	1205	66,1
+High	1206	67,9
+High	1207	69,7
+High	1208	71,4
+High	1209	73,1
+High	1210	74,7
+High	1211	76,2
+High	1212	77,5
+High	1213	78,6
+High	1214	79,7
+High	1215	80,6
+High	1216	81,5
+High	1217	82,2
+High	1218	83
+High	1219	83,7
+High	1220	84,4
+High	1221	84,9
+High	1222	85,1
+High	1223	85,2
+High	1224	84,9
+High	1225	84,4
+High	1226	83,6
+High	1227	82,7
+High	1228	81,5
+High	1229	80,1
+High	1230	78,7
+High	1231	77,4
+High	1232	76,2
+High	1233	75,4
+High	1234	74,8
+High	1235	74,3
+High	1236	73,8
+High	1237	73,2
+High	1238	72,4
+High	1239	71,6
+High	1240	70,8
+High	1241	69,9
+High	1242	67,9
+High	1243	65,7
+High	1244	63,5
+High	1245	61,2
+High	1246	59
+High	1247	56,8
+High	1248	54,7
+High	1249	52,7
+High	1250	50,9
+High	1251	49,4
+High	1252	48,1
+High	1253	47,1
+High	1254	46,5
+High	1255	46,3
+High	1256	45,1
+High	1257	43
+High	1258	40,6
+High	1259	38,1
+High	1260	35,4
+High	1261	32,7
+High	1262	30
+High	1263	29,9
+High	1264	30
+High	1265	30,2
+High	1266	30,4
+High	1267	30,6
+High	1268	31,6
+High	1269	33
+High	1270	33,9
+High	1271	34,8
+High	1272	35,7
+High	1273	36,6
+High	1274	37,5
+High	1275	38,4
+High	1276	39,3
+High	1277	40,2
+High	1278	40,8
+High	1279	41,7
+High	1280	42,4
+High	1281	43,1
+High	1282	43,6
+High	1283	44,2
+High	1284	44,8
+High	1285	45,5
+High	1286	46,3
+High	1287	47,2
+High	1288	48,1
+High	1289	49,1
+High	1290	50
+High	1291	51
+High	1292	51,9
+High	1293	52,7
+High	1294	53,7
+High	1295	55
+High	1296	56,8
+High	1297	58,8
+High	1298	60,9
+High	1299	63
+High	1300	65
+High	1301	66,9
+High	1302	68,6
+High	1303	70,1
+High	1304	71
+High	1305	71,8
+High	1306	72,8
+High	1307	72,9
+High	1308	73
+High	1309	72,3
+High	1310	71,9
+High	1311	71,3
+High	1312	70,9
+High	1313	70,5
+High	1314	70
+High	1315	69,6
+High	1316	69,2
+High	1317	68,8
+High	1318	68,4
+High	1319	67,9
+High	1320	67,5
+High	1321	67,2
+High	1322	66,8
+High	1323	65,6
+High	1324	63,3
+High	1325	60,2
+High	1326	56,2
+High	1327	52,2
+High	1328	48,4
+High	1329	45
+High	1330	41,6
+High	1331	38,6
+High	1332	36,4
+High	1333	34,8
+High	1334	34,2
+High	1335	34,7
+High	1336	36,3
+High	1337	38,5
+High	1338	41
+High	1339	43,7
+High	1340	46,5
+High	1341	49,1
+High	1342	51,6
+High	1343	53,9
+High	1344	56
+High	1345	57,9
+High	1346	59,7
+High	1347	61,2
+High	1348	62,5
+High	1349	63,5
+High	1350	64,3
+High	1351	65,3
+High	1352	66,3
+High	1353	67,3
+High	1354	68,3
+High	1355	69,3
+High	1356	70,3
+High	1357	70,8
+High	1358	70,8
+High	1359	70,8
+High	1360	70,9
+High	1361	70,9
+High	1362	70,9
+High	1363	70,9
+High	1364	71
+High	1365	71
+High	1366	71,1
+High	1367	71,2
+High	1368	71,3
+High	1369	71,4
+High	1370	71,5
+High	1371	71,7
+High	1372	71,8
+High	1373	71,9
+High	1374	71,9
+High	1375	71,9
+High	1376	71,9
+High	1377	71,9
+High	1378	71,9
+High	1379	71,9
+High	1380	72
+High	1381	72,1
+High	1382	72,4
+High	1383	72,7
+High	1384	73,1
+High	1385	73,4
+High	1386	73,8
+High	1387	74
+High	1388	74,1
+High	1389	74
+High	1390	73
+High	1391	72
+High	1392	71
+High	1393	70
+High	1394	69
+High	1395	68
+High	1396	67,7
+High	1397	66,7
+High	1398	66,6
+High	1399	66,7
+High	1400	66,8
+High	1401	66,9
+High	1402	66,9
+High	1403	66,9
+High	1404	66,9
+High	1405	66,9
+High	1406	66,9
+High	1407	66,9
+High	1408	67
+High	1409	67,1
+High	1410	67,3
+High	1411	67,5
+High	1412	67,8
+High	1413	68,2
+High	1414	68,6
+High	1415	69
+High	1416	69,3
+High	1417	69,3
+High	1418	69,2
+High	1419	68,8
+High	1420	68,2
+High	1421	67,6
+High	1422	67,4
+High	1423	67,2
+High	1424	66,9
+High	1425	66,3
+High	1426	65,4
+High	1427	64
+High	1428	62,4
+High	1429	60,6
+High	1430	58,6
+High	1431	56,7
+High	1432	54,8
+High	1433	53
+High	1434	51,3
+High	1435	49,6
+High	1436	47,8
+High	1437	45,5
+High	1438	42,8
+High	1439	39,8
+High	1440	36,5
+High	1441	33
+High	1442	29,5
+High	1443	25,8
+High	1444	22,1
+High	1445	18,6
+High	1446	15,3
+High	1447	12,4
+High	1448	9,6
+High	1449	6,6
+High	1450	3,8
+High	1451	1,6
+High	1452	0
+High	1453	0
+High	1454	0
+High	1455	0
+High	1456	0
+High	1457	0
+High	1458	0
+High	1459	0
+High	1460	0
+High	1461	0
+High	1462	0
+High	1463	0
+High	1464	0
+High	1465	0
+High	1466	0
+High	1467	0
+High	1468	0
+High	1469	0
+High	1470	0
+High	1471	0
+High	1472	0
+High	1473	0
+High	1474	0
+High	1475	0
+High	1476	0
+High	1477	0
+Extra High	1478	0
+Extra High	1479	1,1
+Extra High	1480	2,3
+Extra High	1481	4,6
+Extra High	1482	6,5
+Extra High	1483	8,9
+Extra High	1484	10,9
+Extra High	1485	13,5
+Extra High	1486	15,2
+Extra High	1487	17,6
+Extra High	1488	19,3
+Extra High	1489	21,4
+Extra High	1490	23
+Extra High	1491	25
+Extra High	1492	26,5
+Extra High	1493	28,4
+Extra High	1494	29,8
+Extra High	1495	31,7
+Extra High	1496	33,7
+Extra High	1497	35,8
+Extra High	1498	38,1
+Extra High	1499	40,5
+Extra High	1500	42,2
+Extra High	1501	43,5
+Extra High	1502	44,5
+Extra High	1503	45,2
+Extra High	1504	45,8
+Extra High	1505	46,6
+Extra High	1506	47,4
+Extra High	1507	48,5
+Extra High	1508	49,7
+Extra High	1509	51,3
+Extra High	1510	52,9
+Extra High	1511	54,3
+Extra High	1512	55,6
+Extra High	1513	56,8
+Extra High	1514	57,9
+Extra High	1515	58,9
+Extra High	1516	59,7
+Extra High	1517	60,3
+Extra High	1518	60,7
+Extra High	1519	60,9
+Extra High	1520	61
+Extra High	1521	61,1
+Extra High	1522	61,4
+Extra High	1523	61,8
+Extra High	1524	62,5
+Extra High	1525	63,4
+Extra High	1526	64,5
+Extra High	1527	65,7
+Extra High	1528	66,9
+Extra High	1529	68,1
+Extra High	1530	69,1
+Extra High	1531	70
+Extra High	1532	70,9
+Extra High	1533	71,8
+Extra High	1534	72,6
+Extra High	1535	73,4
+Extra High	1536	74
+Extra High	1537	74,7
+Extra High	1538	75,2
+Extra High	1539	75,7
+Extra High	1540	76,4
+Extra High	1541	77,2
+Extra High	1542	78,2
+Extra High	1543	78,9
+Extra High	1544	79,9
+Extra High	1545	81,1
+Extra High	1546	82,4
+Extra High	1547	83,7
+Extra High	1548	85,4
+Extra High	1549	87
+Extra High	1550	88,3
+Extra High	1551	89,5
+Extra High	1552	90,5
+Extra High	1553	91,3
+Extra High	1554	92,2
+Extra High	1555	93
+Extra High	1556	93,8
+Extra High	1557	94,6
+Extra High	1558	95,3
+Extra High	1559	95,9
+Extra High	1560	96,6
+Extra High	1561	97,4
+Extra High	1562	98,1
+Extra High	1563	98,7
+Extra High	1564	99,5
+Extra High	1565	100,3
+Extra High	1566	101,1
+Extra High	1567	101,9
+Extra High	1568	102,8
+Extra High	1569	103,8
+Extra High	1570	105
+Extra High	1571	106,1
+Extra High	1572	107,4
+Extra High	1573	108,7
+Extra High	1574	109,9
+Extra High	1575	111,2
+Extra High	1576	112,3
+Extra High	1577	113,4
+Extra High	1578	114,4
+Extra High	1579	115,3
+Extra High	1580	116,1
+Extra High	1581	116,8
+Extra High	1582	117,4
+Extra High	1583	117,7
+Extra High	1584	118,2
+Extra High	1585	118,1
+Extra High	1586	117,7
+Extra High	1587	117
+Extra High	1588	116,1
+Extra High	1589	115,2
+Extra High	1590	114,4
+Extra High	1591	113,6
+Extra High	1592	113
+Extra High	1593	112,6
+Extra High	1594	112,2
+Extra High	1595	111,9
+Extra High	1596	111,6
+Extra High	1597	111,2
+Extra High	1598	110,7
+Extra High	1599	110,1
+Extra High	1600	109,3
+Extra High	1601	108,4
+Extra High	1602	107,4
+Extra High	1603	106,7
+Extra High	1604	106,3
+Extra High	1605	106,2
+Extra High	1606	106,4
+Extra High	1607	107
+Extra High	1608	107,5
+Extra High	1609	107,9
+Extra High	1610	108,4
+Extra High	1611	108,9
+Extra High	1612	109,5
+Extra High	1613	110,2
+Extra High	1614	110,9
+Extra High	1615	111,6
+Extra High	1616	112,2
+Extra High	1617	112,8
+Extra High	1618	113,3
+Extra High	1619	113,7
+Extra High	1620	114,1
+Extra High	1621	114,4
+Extra High	1622	114,6
+Extra High	1623	114,7
+Extra High	1624	114,7
+Extra High	1625	114,7
+Extra High	1626	114,6
+Extra High	1627	114,5
+Extra High	1628	114,5
+Extra High	1629	114,5
+Extra High	1630	114,7
+Extra High	1631	115
+Extra High	1632	115,6
+Extra High	1633	116,4
+Extra High	1634	117,3
+Extra High	1635	118,2
+Extra High	1636	118,8
+Extra High	1637	119,3
+Extra High	1638	119,6
+Extra High	1639	119,7
+Extra High	1640	119,5
+Extra High	1641	119,3
+Extra High	1642	119,2
+Extra High	1643	119
+Extra High	1644	118,8
+Extra High	1645	118,8
+Extra High	1646	118,8
+Extra High	1647	118,8
+Extra High	1648	118,8
+Extra High	1649	118,9
+Extra High	1650	119
+Extra High	1651	119
+Extra High	1652	119,1
+Extra High	1653	119,2
+Extra High	1654	119,4
+Extra High	1655	119,6
+Extra High	1656	119,9
+Extra High	1657	120,1
+Extra High	1658	120,3
+Extra High	1659	120,4
+Extra High	1660	120,5
+Extra High	1661	120,5
+Extra High	1662	120,5
+Extra High	1663	120,5
+Extra High	1664	120,4
+Extra High	1665	120,3
+Extra High	1666	120,1
+Extra High	1667	119,9
+Extra High	1668	119,6
+Extra High	1669	119,5
+Extra High	1670	119,4
+Extra High	1671	119,3
+Extra High	1672	119,3
+Extra High	1673	119,4
+Extra High	1674	119,5
+Extra High	1675	119,5
+Extra High	1676	119,6
+Extra High	1677	119,6
+Extra High	1678	119,6
+Extra High	1679	119,4
+Extra High	1680	119,3
+Extra High	1681	119
+Extra High	1682	118,8
+Extra High	1683	118,7
+Extra High	1684	118,8
+Extra High	1685	119
+Extra High	1686	119,2
+Extra High	1687	119,6
+Extra High	1688	120
+Extra High	1689	120,3
+Extra High	1690	120,5
+Extra High	1691	120,7
+Extra High	1692	120,9
+Extra High	1693	121
+Extra High	1694	121,1
+Extra High	1695	121,2
+Extra High	1696	121,3
+Extra High	1697	121,4
+Extra High	1698	121,5
+Extra High	1699	121,5
+Extra High	1700	121,5
+Extra High	1701	121,4
+Extra High	1702	121,3
+Extra High	1703	121,1
+Extra High	1704	120,9
+Extra High	1705	120,6
+Extra High	1706	120,4
+Extra High	1707	120,2
+Extra High	1708	120,1
+Extra High	1709	119,9
+Extra High	1710	119,8
+Extra High	1711	119,8
+Extra High	1712	119,9
+Extra High	1713	120
+Extra High	1714	120,2
+Extra High	1715	120,4
+Extra High	1716	120,8
+Extra High	1717	121,1
+Extra High	1718	121,6
+Extra High	1719	121,8
+Extra High	1720	122,1
+Extra High	1721	122,4
+Extra High	1722	122,7
+Extra High	1723	122,8
+Extra High	1724	123,1
+Extra High	1725	123,1
+Extra High	1726	122,8
+Extra High	1727	122,3
+Extra High	1728	121,3
+Extra High	1729	119,9
+Extra High	1730	118,1
+Extra High	1731	115,9
+Extra High	1732	113,5
+Extra High	1733	111,1
+Extra High	1734	108,6
+Extra High	1735	106,2
+Extra High	1736	104
+Extra High	1737	101,1
+Extra High	1738	98,3
+Extra High	1739	95,7
+Extra High	1740	93,5
+Extra High	1741	91,5
+Extra High	1742	90,7
+Extra High	1743	90,4
+Extra High	1744	90,2
+Extra High	1745	90,2
+Extra High	1746	90,1
+Extra High	1747	90
+Extra High	1748	89,8
+Extra High	1749	89,6
+Extra High	1750	89,4
+Extra High	1751	89,2
+Extra High	1752	88,9
+Extra High	1753	88,5
+Extra High	1754	88,1
+Extra High	1755	87,6
+Extra High	1756	87,1
+Extra High	1757	86,6
+Extra High	1758	86,1
+Extra High	1759	85,5
+Extra High	1760	85
+Extra High	1761	84,4
+Extra High	1762	83,8
+Extra High	1763	83,2
+Extra High	1764	82,6
+Extra High	1765	81,9
+Extra High	1766	81,1
+Extra High	1767	80
+Extra High	1768	78,7
+Extra High	1769	76,9
+Extra High	1770	74,6
+Extra High	1771	72
+Extra High	1772	69
+Extra High	1773	65,6
+Extra High	1774	62,1
+Extra High	1775	58,5
+Extra High	1776	54,7
+Extra High	1777	50,9
+Extra High	1778	47,3
+Extra High	1779	43,8
+Extra High	1780	40,4
+Extra High	1781	37,4
+Extra High	1782	34,3
+Extra High	1783	31,3
+Extra High	1784	28,3
+Extra High	1785	25,2
+Extra High	1786	22
+Extra High	1787	18,9
+Extra High	1788	16,1
+Extra High	1789	13,4
+Extra High	1790	11,1
+Extra High	1791	8,9
+Extra High	1792	6,9
+Extra High	1793	4,9
+Extra High	1794	2,8
+Extra High	1795	0
+Extra High	1796	0
+Extra High	1797	0
+Extra High	1798	0
+Extra High	1799	0
+Extra High	1800	0
