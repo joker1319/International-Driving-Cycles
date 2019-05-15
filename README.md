@@ -6,6 +6,7 @@ International Driving Cycles (FTP-72, FTP-75, 10-15 mode, JC08, EUDC, ECE15, NED
 <br>
 All cycles can be fount here: [epa](https://www.epa.gov/vehicle-and-fuel-emissions-testing/dynamometer-drive-schedules)
 <br>
+[GitHub Pages](https://pages.github.com/)
 <br>
 
 # Japan:
